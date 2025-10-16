@@ -13,6 +13,13 @@
             //masterAndMargarita.ShowInfo();
 
 
+            //2
+            //BankAccount account = new BankAccount("1234567890");
+
+            //Console.WriteLine($"Счет: {account.AccountNumber}");
+            //account.Deposit(1000);
+            //account.Withdraw(500);
+            //account.PrintBalance();
 
         }
     }
