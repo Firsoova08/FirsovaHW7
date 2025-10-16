@@ -45,6 +45,17 @@
             //int roll5 = dice12.Roll();
             //int roll6 = dice12.Roll();
             //Console.WriteLine($"{roll4}, {roll5}, {roll6}");
+
+            //5
+            //Character warrior = new Character(150, 20);
+            //Console.WriteLine($"Воин: Здоровье={warrior.Health}, Мана={warrior.Mana}");
+            //warrior.Attack();
+            //Character mage = new Character(80, 100);
+            //Console.WriteLine($"Маг: Здоровье={mage.Health}, Мана={mage.Mana}");
+            //mage.Attack();
+            //Character archer = new Character(120, 50);
+            //Console.WriteLine($"Лучник: Здоровье={archer.Health}, Мана={archer.Mana}");
+            //archer.Attack();
         }
     }
 }
