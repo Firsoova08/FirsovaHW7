@@ -21,6 +21,17 @@
             //account.Withdraw(500);
             //account.PrintBalance();
 
+            //3
+            Car myCar = new Car("Toyota camry 2.5", 250);
+            myCar.PrintInfo();
+            Console.WriteLine("\n--- Разгон ---");
+            myCar.Accelerate(50);
+            myCar.Accelerate(70);
+            myCar.PrintInfo();
+            Console.WriteLine("\n--- Торможение ---");
+            myCar.Brake();
+            myCar.PrintInfo();
+
         }
     }
 }
